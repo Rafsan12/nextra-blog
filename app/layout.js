@@ -18,7 +18,7 @@ const navbar = (
         <span>Documentation</span>
       </>
     }
-    projectLink="https://gitlab.com/inkscape/inkscape"
+    projectLink="https://github.com/Rafsan12/nextra-blog"
 
     // ... Your additional navbar options
   />
